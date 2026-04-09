@@ -3,7 +3,7 @@ import FunFactCard from "./FunFactCard";
 function App() {
   return (
     <div>
-      <FunFactCard />
+      <FunFactCard fact="I like spicy food." />
     </div>
   );
 }
