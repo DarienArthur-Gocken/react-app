@@ -6,6 +6,8 @@ function App() {
       <FunFactCard fact="I like spicy food." />
       <FunFactCard fact="I am Filipino." />
       <FunFactCard fact="I like to play Tekken 8." />
+      <FunFactCard fact="I have visited California." />
+      <FunFactCard fact="I like to play Minecraft." />
     </div>
   );
 }
